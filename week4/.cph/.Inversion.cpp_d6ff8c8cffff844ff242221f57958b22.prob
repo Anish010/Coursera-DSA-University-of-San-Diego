@@ -1,0 +1,1 @@
+{"name":"Local: Inversion","url":"c:\\Users\\ADMIN\\Desktop\\Coursera\\week4\\Inversion.cpp","tests":[{"id":1636284433686,"input":"5\n2 3 9 2 9","output":""},{"id":1636284618085,"input":"3\n3 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ADMIN\\Desktop\\Coursera\\week4\\Inversion.cpp","group":"local","local":true}

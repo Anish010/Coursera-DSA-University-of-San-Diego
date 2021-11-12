@@ -1,0 +1,1 @@
+{"name":"Local: MaxAd","url":"c:\\Users\\ADMIN\\Desktop\\Coursera\\Week3\\MaxAd.cpp","tests":[{"id":1634799031944,"input":"3\n1 3 -5\n-2 4 1","output":"23"},{"id":1634799036591,"input":"1\n23\n39","output":"897"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ADMIN\\Desktop\\Coursera\\Week3\\MaxAd.cpp","group":"local","local":true}

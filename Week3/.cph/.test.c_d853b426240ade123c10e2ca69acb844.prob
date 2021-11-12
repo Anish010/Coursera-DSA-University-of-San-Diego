@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"c:\\Users\\ADMIN\\Desktop\\Coursera\\Week3\\test.c","tests":[{"id":1634995169380,"input":"4\n200 375 550 750\n400","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ADMIN\\Desktop\\Coursera\\Week3\\test.c","group":"local","local":true}

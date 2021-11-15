@@ -1,0 +1,1 @@
+{"name":"Local: LongestCommonSequence","url":"c:\\Users\\ADMIN\\Desktop\\Coursera\\Course 1\\week5\\LongestCommonSequence.cpp","tests":[{"id":1636979328573,"input":"1\n7\n4\n1 2 3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ADMIN\\Desktop\\Coursera\\Course 1\\week5\\LongestCommonSequence.cpp","group":"local","local":true}
